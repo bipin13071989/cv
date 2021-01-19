@@ -1,0 +1,73 @@
+body{
+  background-color: #f1f3f8;
+  font-family: cursive;
+}
+.titlediv{
+
+  background-color: pink;
+  margin: 0px;
+  padding: 0px;
+}
+.qualification-table{
+  margin-left: 450px;
+  background-color: #a3ddcb;
+  margin-right: 450px;
+}
+
+.projects{
+  background-color: #a3ddcb;
+  margin-bottom: 50px;
+}
+.certificationsdiv{
+  margin-left: 550px;
+  margin-bottom: 100px;
+}
+.technicaldiv{
+  margin-left: 550px;
+  margin-bottom: 100px;
+}
+.extradiv{
+  margin-left: 550px;
+  margin-bottom: 100px;
+
+}
+.interpersonaldiv{
+  margin-left: 550px;
+  margin-bottom: 100px;
+
+}
+.hobbiesdiv{
+  margin-left: 550px;
+  margin-bottom: 100px;
+}
+
+
+
+hr{
+  border: dotted;
+  border-radius: 70%;
+  border-color: grey;
+  border-width: 4px;
+  background-color: #f1ae89;
+  height: 3px;
+  width: 50%;
+}
+
+h1
+{
+
+  color: #158467;
+}
+h1:hover
+{
+  color: crimson;
+}
+h3{
+  font-family: monospace;
+  /* background-color: Blue; */
+  color: #158467;
+}
+
+div{
+  perspective:
+}

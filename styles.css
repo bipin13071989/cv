@@ -1,6 +1,7 @@
 body{
   background-color: #f1f3f8;
   font-family: cursive;
+  margin: 0;
 }
 .titlediv{
 
@@ -12,10 +13,9 @@ body{
   display: inline-block;
   position: relative;
   left: 380px;
-  /* margin-left: 450px; */
-  /* height:  170px; */
+
   background-color: #a3ddcb;
-  /* width: 605px; */
+
 }
 
 .projects{
